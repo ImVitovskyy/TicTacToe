@@ -155,5 +155,5 @@ while True:
     print('Choose your game mode')
     game_level()
     print(f'The score is: {score[0]} / {score[1]}')
-    input('If you whanto to play again, press Enter\n')
+    input('If you whant to to play again, press Enter\n')
     bot_plays.reset()
