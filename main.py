@@ -151,7 +151,7 @@ def continue_game(turn, level):
 
 while True:
     board = {1: ' ', 2: ' ', 3: ' ', 4: ' ', 5: ' ', 6: ' ', 7: ' ', 8: ' ', 9: ' '}
-    print('\nWelcome to Tic Tac Toe, made by Phant - https://github.com/Phan7 ')
+    print('\nWellcome to Tic Tac Toe, made by Phant - https://github.com/ImPhant')
     print('Choose your game mode')
     game_level()
     print(f'The score is: {score[0]} / {score[1]}')
