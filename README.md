@@ -1,6 +1,8 @@
 # Tic Tac Toe
 ## A Python tic tac toe game
 
+To start the game, run `python3 main.py`
+
 First, you have to select the game level. Today, it has three levels
 
 In all the tests I've done at bot level three, the results have always been either draws or wins for the bot. So, if my tests are correct, the bot will never lose at level three...
