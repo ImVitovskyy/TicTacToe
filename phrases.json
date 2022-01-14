@@ -1,0 +1,36 @@
+{
+    "winning": [
+        "I doubt you win against this move!",
+        "You don't stand a chance...",
+        "Good game hahaha",
+        "I think you better give up...",
+        "I won't take it easy!",
+        "Stonks",
+        "Ultra Stonks"
+    ],
+    "loosing": [
+        "LOL",
+        "I didn't think you were so good...",
+        "Dude...",
+        "I don't even know what move to make...",
+        "I don't understand anything else in this game",
+        "Not Stonks"
+    ],
+    "won": [
+        "I said I wouldn't take it easy...",
+        "GG ez hahaha",
+        "You were destroyed!",
+        "LOL",
+        "Nice try hahaha",
+        "I am... INEVITABLE"
+    ],
+    "lost": [
+        "I got distracted for a moment...",
+        ";-;",
+        "This is not possible!",
+        "You are cheating!",
+        "Best of 3!",
+        "You are very lucky",
+        "Beginner's luck..."
+    ]
+}
